@@ -1,5 +1,5 @@
 # HackParkCTF
-TryHackMe write-up for the HackPark CTF room
+TryHackMe write-up for the HackPark CTF room (WIP)
 
 As per TryHackMe's description of this room, "This room will cover brute-forcing an accounts credentials, handling public exploits, using the Metasploit framework and privilege escalation on Windows".
 
