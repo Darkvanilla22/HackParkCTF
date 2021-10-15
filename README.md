@@ -1,4 +1,6 @@
 # HackParkCTF
+**UPDATE - 10/15/21**: I'm not sure why, but I'm unable to load the webpage for this room in TryHackMe. Seems to be infinitley loading whenever I attempt to visit the page. Hopefully I'll get this resolved in the future, but for now, I'd figure I post an update on the current state of progress for this room.
+
 TryHackMe write-up for the HackPark CTF room (WIP)
 
 As per TryHackMe's description of this room, "This room will cover brute-forcing an accounts credentials, handling public exploits, using the Metasploit framework and privilege escalation on Windows".
